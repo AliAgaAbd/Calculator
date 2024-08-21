@@ -2,4 +2,4 @@
 کافیست فایل calulator.exe را دانلود و ان را اجرا نمایید.
 این ماشین حساب دارای قابلیت انجام چهار عمل اصلی +،-،/،*،رادیکال،توان،محاسبه حجم،محاسبه مساحت،تبدیل واحد،محاسبه شاخص توده بدن(BMI) و قابلیت های دیگر که با اجرا کردن کردن نرم افزار انها را پیدا کنید.
 در صورتی که برنامه من را دوست داشته اید ممنون می شوم که ستاره را فشار دهید.
-See the English readme at https://github.com/AliAgaAbd/Calculator/blob/6b1b251446f546958650d4fa5985bea956541900/README.md
+See the english readme at [Persian REDME.md](https://github.com/AliAgaAbd/Calculator/blob/ec6f05cb91ad1bce3127d96f486db14cbb21e03f/README.md)
